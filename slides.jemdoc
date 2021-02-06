@@ -1,6 +1,17 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Slides
 
-- [https://github.com/Simuno13/ConvexOptimization/raw/main/Lectures/1-intro.pdf Introduction]
-- [https://github.com/Simuno13/ConvexOptimization/raw/main/Lectures/lecture1-lin-alg.pdf Linear Algebra review]
-
+- [https://web.stanford.edu/class/ee364a/lectures/intro.pdf Introduction]
+- [https://github.com/arezoukt/cvxoptcourse/raw/main/Lectures/lecture1-lin-alg.pdf Linear algebra review]
+- [https://web.stanford.edu/class/ee364a/lectures/sets.pdf Convex sets]
+- [https://web.stanford.edu/class/ee364a/lectures/functions.pdf Convex functions]
+- [https://web.stanford.edu/class/ee364a/lectures/problems.pdf Convex optimization problems]
+- [https://web.stanford.edu/class/ee364a/lectures/duality.pdf Duality]
+- [https://web.stanford.edu/class/ee364a/lectures/approx.pdf Approximation and fitting]
+- [https://web.stanford.edu/class/ee364a/lectures/stat.pdf Statistical estimation]
+- [https://web.stanford.edu/class/ee364a/lectures/geom.pdf Geometric problems]
+- [https://web.stanford.edu/class/ee364a/lectures/num-lin-alg.pdf Numerical linear algebra background]
+- [https://web.stanford.edu/class/ee364a/lectures/unconstrained.pdf Unconstrained minimization]
+- [https://web.stanford.edu/class/ee364a/lectures/equality.pdf Equality constrained minimization]
+- [https://web.stanford.edu/class/ee364a/lectures/barrier.pdf Interior point methods]
+- [https://web.stanford.edu/class/ee364a/lectures/conclusions.pdf Conclusions] 

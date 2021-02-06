@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Course information
+
+== Course Structure
+- Lectures: pre-recorded lectures uploaded weekly. There will be weekly live discussion sessions where Dr. Keshavarz will work through examples and answer questions. These will be held on Google Meet, *Wednesdays 2:30-3:30pm*. 
+- TA office hours/tutorials: Mohammad (XX), Sajad (XX). These will also be held on Google Meet. 
+- Course Requirements and grading:
+-- Bi-Weekly homework assignments, due on Fridays at midnight, starting on XX of Esfand. *Late homework will not be accepted.* You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in. Homework will be graded on a scale of 0–4. We will have 8-10 homeworks throughout the term and will consider the average grade of these homeworks towards the total grade. 
+-- Midterm quiz. The midterm will be scheduled at the end of Farvardin or early Ordibehesht. 
+-- Final. The final date will be announced here. 
+
+== Prerequisites
+- Good knowledge of linear algebra, and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.
+- You will use one of [http://cvxr.com/cvx/ CVX] (Matlab) or [https://www.cvxpy.org/ CVXPY] (Python) to write simple scripts, so basic familiarity with elementary programming will be required. We refer to CVX and CVXPY collectively as CVX*.
+
+== Lecture videos
+ These will be shared with you on Google drive (through a google account) and you will get a link for these early on in the course. Note that you need to give us a gmail address to share these files with you. 
+ 
+== TA homework sessions 
+These will not be held online. Instead, we will post videos of the homework sessions after the due date (similar to lecture videos). Again, these will be on Google Drive. 
