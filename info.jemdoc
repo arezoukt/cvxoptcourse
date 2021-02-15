@@ -1,18 +1,17 @@
 # jemdoc: menu{MENU}{index.html}, showsource
+
 = Course information
-
 == Course Structure
-- Lectures: pre-recorded lectures uploaded weekly. There will be weekly live discussion sessions where Dr. Keshavarz will work through examples and answer questions. These will be held on Google Meet, *Wednesdays 2:30-3:30pm*. 
-- TA office hours/tutorials: Mohammad (XX), Sajad (XX). These will also be held on Google Meet. 
+- Lectures: pre-recorded lectures uploaded weekly. There will be weekly live discussion sessions where Dr. Keshavarz will work through examples and answer questions. These will be held on Google Meet, Wednesdays 2:30-3:30pm.
+- TA office hours/tutorials: The TAs will solve examples from the lectures and textbook in each session. They will also hold lively discussions about the homework problems during the week, so you are encouraged to attend those. These will also be held on Google Meet.
+-- Mohammad: Saturdays 5:30-6:30pm
+-- Sajad: Thursdays 2:30-3:30pm
 - Course Requirements and grading:
--- Bi-Weekly homework assignments, due on Fridays at midnight. Late homework will not be accepted, except in family or medical emergency and must be approved by the 
-instructor directly ahead of time. You are allowed, even encouraged, to work on the homework in small 
-groups, but you must write up your own homework to hand in. Homework will be graded on a scale of 0–4. 
-We will have 8-10 homework assignments throughout the term and will consider the average grade of 
-these homeworks towards the total grade.
--- Midterm quiz. The midterm will be scheduled at the end of Farvardin or early Ordibehesht. 
--- Final. The final date will be announced here. 
-
+-- Bi-Weekly homework assignments (30%), due on Fridays at midnight. The first homework will be due on 15th of Esfand. Late homework will not be accepted, except in family or medical emergency and must be approved by the instructor directly ahead of time. You are allowed, even encouraged, to work on the homework in small groups, but you must write up your own homework to hand in. Homework will be graded on a scale of {0, 1, 2}. We will have 8-10 homeworks throughout the term and will consider the average grade of these homeworks towards the total grade. 
+--- IMPORTANT NOTE: In case of plagiarism, you may lose the full grade of that homework, or possibly all homework assignments.
+-- Quizzes (20%): We will hold live quizzes during some of the Wednesday sessions. These will be announced ahead of time. 
+-- Midterm (20%): We will have a midterm exam. The date will be announced later in the course. 
+-- Project assignments (30%): We will assign project questions throughout the term. We expect to assign around 4-5 project assignments throughout the term. Late submission of these will not be accepted. These will typically be assigned at the same time as a homework, but you should work on them independently. Note that the write-up for  these questions will be very very clear, so we will not answer any questions or give any hints about them. 
 == Prerequisites
 - Good knowledge of linear algebra, and exposure to probability. Exposure to numerical computing, optimization, and application fields helpful but not required; the applications will be kept basic and simple.
 - You will use one of [http://cvxr.com/cvx/ CVX] (Matlab) or [https://www.cvxpy.org/ CVXPY] (Python) to write simple scripts, so basic familiarity with elementary programming will be required. We refer to CVX and CVXPY collectively as CVX*.
