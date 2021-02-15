@@ -1,4 +1,4 @@
-DOCS=index contact slides resources homework
+DOCS=index contact slides resources homework info
 
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(HDOCS)
