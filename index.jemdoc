@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Welcome to Convex optimization
+= Convex optimization
 [arezou@keshavarz.net Arezou Keshavarz, Ph.D.]
 
 Concentrates on recognizing and solving convex optimization problems that arise in applications. Convex sets, functions, and optimization problems. Basics of convex analysis. Least-squares, linear and quadratic programs, semi-definite programming, min-max, external volume, and other problems. Optimality conditions, duality theory, theorems of alternative, and applications. Interior-point methods. Applications to signal processing, communications, statistics, machine learning, control, and mechanical engineering, digital and analog circuit design, and finance.
