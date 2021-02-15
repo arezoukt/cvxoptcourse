@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{slides.html}, showsource
 = Slides
 
 - [https://web.stanford.edu/class/ee364a/lectures/intro.pdf Introduction]
