@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{resources.html}, showsource
 = Resouces
 
 - *Textbook:* The textbook is [http://www.stanford.edu/~boyd/cvxbook/ Convex Optimization], available online.
