@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{info.html}, showsource
 = Course information
 
-== Course structure === Pre-recorded content
+== Course structure 
+=== Pre-recorded content
 - Lectures are pre-recorded and uploaded weekly. They will correspond to slides
   (posted on this site) and chapters from the
 [http://www.stanford.edu/~boyd/cvxbook textbook].
