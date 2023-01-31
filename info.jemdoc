@@ -2,28 +2,21 @@
 = Course information
 
 == Course structure 
-=== Pre-recorded content
-- Lectures are pre-recorded and uploaded weekly. They will correspond to slides
-  (posted on this site) and chapters from the
-[http://www.stanford.edu/~boyd/cvxbook textbook].
-- All recorded course material will be shared with you on Google drive (through
-  a google account) and you will get a link for these early on in the course.
-Note that you need to give us a gmail address to share these files with you. You can do that by doing [https://quera.org/course/assignments/39490/problems/132524 homework 0].
-=== Live sessions
-- There will be weekly live discussion sessions on *Sundays 1-2pm*, where Dr.
-  Keshavarz will work through examples and answer questions.
-- TA office hours/tutorials: The TAs will solve examples from the lectures and
-  textbook in each session. They will also hold lively discussions about the
-homework problems during the week, so you are encouraged to attend those.  
--- Mondays: 2-3:30pm
--- Thursdays: TBD
-- All live sessions will take place on Google Meet.
-- Please fill out the form in homework 0 so we have your email address. This will be our way of adding you to the office hours on Google Meet. You will also get access to Google drive.  
+=== Lectures
+- Lectures will take place on Saturdays & Mondays, 10:30-12pm at TBD. Attendance
+is mandatory.
+- Prof. Keshavarz's office hours will take place on Saturdays from 12pm-1pm at TBD. 
+- The TAs will be holding weekly workshops where they will review extra exerices,
+discuss lecture contents, and facilitate fruitful discussions. These will take 
+place on Mondays TBD at TBD. Attendance is strongly encouraged.
+- The TAs will be holding biweekly problem solving sessions a few days before
+each homework due date in order to provide a space for the students to hold
+discussions together about the upcoming homework assignment and facilitate
+learning and growth. These will take place on Wednesdays at TBD.  
 
 == Course Requirements and Grading
-- Bi-Weekly homework assignments (30%), due on Fridays at midnight. We will 
-use [https://quera.ir/overview/add_to_course/course/10393 quera] for this. *Please register on Quera using the password CVXOpt14012022*. The first
-  homework will be due on 13th of Esfand. *Late homework will not be accepted,
+- Bi-Weekly homework assignments (30%), due on Fridays at midnight. 
+The first homework will be due on 5th of Esfand. *Late homework will not be accepted,
 except in family or medical emergency and must be approved by the instructor
 directly ahead of time.* You are allowed, even encouraged, to work on the
 homework in small groups, but you must write up your own homework to hand in.
@@ -32,18 +25,18 @@ throughout the term and will consider the average grade of these homeworks
 towards the total grade.  
 -- *IMPORTANT NOTE: In case of plagiarism, you may lose the full grade of that 
 homework, or possibly all homework assignments.*
-- Quizzes (20%): We will hold live quizzes during some of the Sunday
-  sessions. These will be announced ahead of time. 
-- Midterm (20%): We will have a midterm exam. The date will be announced later
+#- Quizzes (20%): We will hold live quizzes in the first 10 minutes of some 
+#  lectrues. These will be announced ahead of time. 
+- Midterm (30%): We will have a midterm exam. The date will be announced later
   in the course. 
-- Project assignments OR 24-hour take home final exam (30%): We may have a 24-hour take-home final exam OR a set of projects throughout the course. Depending on the situation, this will be determined and will be announced. 
-*In case of projects:* We will assign project questions throughout the
-  term. We expect to assign around 4-5 project assignments throughout the term.
-Late submission of these will not be accepted. These will typically be assigned
-at the same time as a homework, but you should work on them independently. Note
-that the write-up for  these questions will be very very clear, so we will not
-answer any questions or give any hints about them. 
-*In case of final exam:* We will have a 24-hour take-home final exam, to be taken at a time in the last week of classes. We will show some flexibility regarding the time for the exam.
+#- Project assignments OR 24-hour take home final exam (30%): We may have a 24-hour take-home final exam OR a set of projects throughout the course. Depending on the situation, this will be determined and will be announced. 
+#*In case of projects:* We will assign project questions throughout the
+#  term. We expect to assign around 4-5 project assignments throughout the term.
+#Late submission of these will not be accepted. These will typically be assigned
+#at the same time as a homework, but you should work on them independently. Note
+#that the write-up for  these questions will be very very clear, so we will not
+#answer any questions or give any hints about them. 
+#*In case of final exam:* We will have a 24-hour take-home final exam, to be taken at a time in the last week of classes. We will show some flexibility regarding the time for the exam.
 
 Note that we reserve the right to change the weights during the semester.
 
